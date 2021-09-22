@@ -1,4 +1,4 @@
-- 👨‍💻 Current Project/ Research: Solidity smart contract architectures!
+- 👨‍💻 Current Projects/ Research: Solidity smart contract architectures!
 - 🎉 Last Project: https://app.adaptiveresources.io/
 - 🏗️ Build Guild Profile: http://powvt.buidlguidl.com/ 
 

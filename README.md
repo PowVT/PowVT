@@ -1,5 +1,5 @@
 - 👨‍💻 Current Projects/ Research: Solidity smart contract architectures!
-- 💠 https://app.adaptiveresources.io/
+- 💠 https://github.com/PowVT/adaptive-smart-contracts
 - 🏗️ Build Guild Profile: http://powvt.buidlguidl.com/ 
 - 📫 How to reach me: epowlowsky@gmail.com
 
